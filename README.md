@@ -1,2 +1,2 @@
 # Streamlit-project
-Streamli 배포 연습
+Streamlit 배포 연습
